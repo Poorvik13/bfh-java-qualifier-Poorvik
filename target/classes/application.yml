@@ -1,0 +1,10 @@
+app:
+  candidate:
+    name: "SA Poorvik"
+    regNo: "U25UV22T043078"     # exact format they gave you; no spaces
+    email: "sapoorvik444@gmail.com"
+  endpoints:
+    generateWebhook: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    submitWebhook:   "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+  storage:
+    solutionFile: "solution.sql"

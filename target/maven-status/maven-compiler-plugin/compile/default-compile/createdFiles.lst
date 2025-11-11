@@ -1,0 +1,4 @@
+com\company\bh\dto\WebhookResponse.class
+com\company\bh\BfhJavaQualifierApplication.class
+com\company\bh\service\QualifierService.class
+com\company\bh\config\HttpConfig.class
